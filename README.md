@@ -130,9 +130,9 @@ Default Settings:
 
 File Structure:
 InterpControl-v1/
-├── InterpControl.py    # Backend + embedded frontend
-├── index.html          # Standalone frontend (optional)
-└── README.md           # This file
+├── InterpControl.py    
+├── index.html          
+└── README.md           
 
 Code Organization:
 InterpControl.py contains:
