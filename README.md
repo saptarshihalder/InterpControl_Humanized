@@ -247,6 +247,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for the interpretability community**
+<img width="1732" height="727" alt="image" src="https://github.com/user-attachments/assets/b60c8893-c39a-4745-8bb9-21075ab8c616" />
+
+
+<img width="1730" height="482" alt="image" src="https://github.com/user-attachments/assets/ff5ba7d5-79cd-4109-b177-95adceb2f569" />
+
+<img width="1743" height="722" alt="image" src="https://github.com/user-attachments/assets/68d67932-effe-4984-b283-7291610d6002" />
 
 If you find this useful, please consider starring the repository!
