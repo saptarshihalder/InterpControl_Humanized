@@ -178,33 +178,6 @@ Dependencies:
 - fastapi
 - uvicorn
 
-## Troubleshooting
-
-Port Already In Use:
-Edit THE_SETTINGS_DICT in InterpControl.py:
-THE_SETTINGS_DICT = {'port': 8001}
-
-Model Download Fails:
-- Check internet connection
-- Ensure 2GB free disk space
-- Model downloads to ~/.cache/huggingface/
-
-Out of Memory:
-- Close other applications
-- Reduce max_new_tokens in generate calls
-- Use smaller model (gpt2-small)
-
-Probe Training Fails:
-- Check if model loaded successfully
-- Verify layer number is valid (0-23 for gpt2-medium)
-- Restart application
-
-UI Not Loading:
-- Check console for errors
-- Verify port 8000 is accessible
-- Try different browser
-- Check backend logs
-
 ## Research Applications
 
 Factual Knowledge Probing:
